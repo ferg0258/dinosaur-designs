@@ -1,8 +1,11 @@
 html {
   /* Everything in here will design the HTML element*/
 background-color: #f2f1ed
-font: Georgia
-line-height:1.5
-
+p {
+  font: Georgia
+}
+h1 {
+  color: #5d8432
+  font: uppercase
 }
 }
