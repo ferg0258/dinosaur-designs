@@ -2,25 +2,36 @@ html {
 background-color: #f2f1ed;
 }
 
-p {
-  font: Georgia;
+h1{
+  visibility: hidden;
 }
 
-h1 {
-  color: #5d8432;
-  font-family: "Patua One", cursive;
+p {
+  font: Georgia;
 }
 
 li {
   font-weight: bold;
   color: #793284;
+  font-size: 1.125rem;
+  list-style: none;
 }
 
 li:hover {
   color: #b42885;
+  text-decoration: underline;
 }
 
 figcaption {
   font-style: italic;
   text-align: center;
+}
+h2 {
+  text-transform: uppercase;
+  color: #5d8432;
+  font-family: "Patua One", cursive;
+}
+img {
+  width: 100%;
+  height: auto;
 }
