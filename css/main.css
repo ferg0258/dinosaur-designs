@@ -8,13 +8,19 @@ p {
 
 h1 {
   color: #5d8432;
-  text-transform: uppercase;
+  font-family: "Patua One", cursive;
 }
 
 li {
+  font-weight: bold;
   color: #793284;
 }
 
 li:hover {
   color: #b42885;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
 }
