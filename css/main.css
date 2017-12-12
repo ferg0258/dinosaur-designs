@@ -1,15 +1,21 @@
 html {
-  /* Everything in here will design the HTML element*/
-background-color: #f2f1ed
+background-color: #f2f1ed;
+}
+
 p {
-  font: Georgia
+  font: Georgia;
 }
+
 h1 {
-  color: #5d8432
-  font: uppercase
+  color: #5d8432;
+  text-transform: uppercase;
 }
+
 nav {
   normal-color: #793284
   hover-color: #b42885
 }
+
+li:hover {
+  color: #b42885;
 }
