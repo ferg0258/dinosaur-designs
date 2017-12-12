@@ -11,9 +11,8 @@ h1 {
   text-transform: uppercase;
 }
 
-nav {
-  normal-color: #793284
-  hover-color: #b42885
+li {
+  color: #793284;
 }
 
 li:hover {
