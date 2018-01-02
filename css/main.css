@@ -1,8 +1,8 @@
 html {
-background-color: #f2f1ed;
+  background-color: #f2f1ed;
 }
 
-h1{
+h1 {
   visibility: hidden;
 }
 
@@ -26,11 +26,13 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+
 h2 {
   text-transform: uppercase;
   color: #5d8432;
   font-family: "Patua One", cursive;
 }
+
 img {
   width: 100%;
   height: auto;
