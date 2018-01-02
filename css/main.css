@@ -1,7 +1,5 @@
 html {
   background-color: #f2f1ed;
-  font-family: Georgia;
-  font-style: serif;
   line-height: 1.5
 }
 
@@ -10,7 +8,7 @@ h1 {
 }
 
 p {
-  font: Georgia;
+  font-family: Georgia; , serif;
 }
 
 li, a {
