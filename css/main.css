@@ -15,6 +15,7 @@ li, a {
   color: #793284;
   font-size: 1.125rem;
   list-style: none;
+  text-decoration: none;
 }
 
 li:hover, a:hover {
